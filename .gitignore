@@ -1,5 +1,9 @@
-/cache
+# Data
 /data*
+/cache
+*.h5ad
+
+# Images
 *.png
 *.tif
 *.svg
